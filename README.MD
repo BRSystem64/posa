@@ -4,6 +4,9 @@
 
 A documentação pode ser encontrada no diretório __Posa/doc__.
 
+### - Versão 1.1 
+  - **BaseController** :Instanciador de Views.
+
 ### - Versão 1.0
   - **Verbos Http**  : GET, POST, PUT, DELETE, Definição de Status, Manipulação do Request e Response.
   - **Url amigavel** : Sistema de rotas e declaração de variaveis.
