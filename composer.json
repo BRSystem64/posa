@@ -1,0 +1,17 @@
+{
+	"name": "Posa",
+	"Description": "Micro Framework",
+	"author": [
+		{"name":"Bruno", "email":"brunobastos_1998@hotmail.com"}
+	],
+
+	"autoload":{
+	  "psr-4":{
+			"Posa\\": "Posa/",
+			"Posa\\Interfaces\\":"Posa/interfaces/",	
+			"App\\Controllers\\": "app/Controllers/",
+			"App\\Models\\":"app/Models/"
+		}
+	
+	}
+}
